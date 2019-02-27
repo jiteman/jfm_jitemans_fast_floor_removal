@@ -1,0 +1,9 @@
+{
+	"name":"Jitemans_Fast_Floor_Removal",
+	"author":"Jiteman [@gmail.com]",
+	"version":"1.0.0",
+	"title":"Jiteman's Fast Floor Removal",
+	"description":"Lowers mine time for stone brick, concrete, etc.",
+	"factorio_version":"0.16",
+	"dependencies": ["base >= 0.16.0"]
+} 
